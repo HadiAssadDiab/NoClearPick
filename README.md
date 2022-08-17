@@ -1,8 +1,8 @@
 # NoClearPick
 
-NoClearPick is a terminal selection menu creator heavily inspired by Pick, with the main difference being that NoClearPick does not clear your terminal.
+NoClearPick is a terminal selection menu creator heavily inspired by Pick, with the main difference being that this does not clear your terminal
 
-![](image.gif)
+![](https://github.com/AbduleTheAlmighty/NoClearPick/blob/main/images/example.gif?raw=true)
 
 ## Usage
 
